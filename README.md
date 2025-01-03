@@ -32,13 +32,13 @@ This repository contains a comprehensive business analytics report focused on re
 
 ## Data Visualization Examples
 - Annual Purchase Revenues, Costs, and Profits for 2022 and 2023
-- ![](images\Picture1.png)
+- ![Annual Purchase Revenues](images\Picture1.png)
 - Revenue by Industry Sector 
-- ![](images\Picture2.png)
+- ![Revenue by Industry Sector](images\Picture2.png)
 - Monthly Revenue Trends 
-- ![](images\Picture3.png)
+- ![Monthly Revenue Trends](images\Picture3.png)
 - Pareto Charts for Monthly Purchase Revenues 
-- ![](images\Picture8.png)
+- ![Pareto Chart](images\Picture8.png)
 
 ## Tools and Techniques
 - Microsoft Excel (Advanced Functions, Solver, and Charts)
