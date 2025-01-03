@@ -31,7 +31,7 @@ This repository contains a comprehensive business analytics report focused on re
 - Optimization: Investment portfolio creation using Excel Solver.
 
 ## Data Visualization Examples
-- ![Annual Purchase Revenues, Costs, and Profits for 2022 and 2023](Picture1.png)
+- Annual Purchase Revenues, Costs, and Profits for 2022 and 2023](Picture1.png)
 - [ ] Revenue by Industry Sector (Pie Chart)
 - [ ] Monthly Revenue Trends (Line Chart)
 - [ ] Pareto Charts for Monthly Purchase Revenues (2022 and 2023)
