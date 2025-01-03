@@ -30,16 +30,6 @@ This repository contains a comprehensive business analytics report focused on re
 - Statistical Analysis: Descriptive statistics, Pareto charts, and regression.
 - Optimization: Investment portfolio creation using Excel Solver.
 
-## Data Visualization Examples
-- Annual Purchase Revenues, Costs, and Profits for 2022 and 2023
-- ![Annual Purchase Revenues](images\Picture1.png)
-- Revenue by Industry Sector 
-- ![Revenue by Industry Sector](images\Picture2.png)
-- Monthly Revenue Trends 
-- ![Monthly Revenue Trends](images\Picture3.png)
-- Pareto Charts for Monthly Purchase Revenues 
-- ![Pareto Chart](images\Picture8.png)
-
 ## Tools and Techniques
 - Microsoft Excel (Advanced Functions, Solver, and Charts)
 - Data Analysis and Statistical Modeling
